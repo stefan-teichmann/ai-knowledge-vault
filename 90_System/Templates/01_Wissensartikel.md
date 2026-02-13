@@ -1,0 +1,17 @@
+---
+typ: Wissen
+kategorie: 
+tags: []
+erstellt: {{date}}
+---
+# {{title}}
+
+## 📌 Zusammenfassung
+Ein kurzer Satz, worum es hier geht.
+
+## 📝 Details
+[Inhalt hier einfügen]
+
+## 🔗 Weiterführende Links
+- [[Verwandtes Thema A]]
+- [Externer Link](https://...)
