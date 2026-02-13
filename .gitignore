@@ -1,0 +1,15 @@
+# Obsidian Internals
+.obsidian/
+.trash/
+
+# Persönliches
+80_Persoenlich/
+
+# Betriebssysteme
+.DS_Store
+Thumbs.db
+
+# Große Anhänge (Optional, falls man Bilder/PDFs nicht im Git will)
+# 40_System/Attachments/
+.idea/
+
