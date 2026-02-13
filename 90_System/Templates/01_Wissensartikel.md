@@ -1,7 +1,7 @@
 ---
 typ: Wissen
 kategorie: 
-tags: []
+tags: [wissen, lernen]
 erstellt: {{date}}
 ---
 # {{title}}

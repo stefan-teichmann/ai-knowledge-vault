@@ -83,3 +83,5 @@ Ein kleiner Rat unter "Kollegen": Fang klein an. Der größte Fehler ist es, Woc
 - **Templater:** {{date}} oder {{title}} werdem beim Erstellen der Datei automatisch durch korrekte Werte ersetzt
 - **Dataview-Plugin:** dynamische Tabellen
 - **Media Extended:** Zeitstempel aus Videos direkt in Notizen zu übernehmen
+Extended](https://github.com/aidenlx/media-extended)
+- **Tasks:** Deadlines und Erinnerungen direkt in Checkboxen verwalten

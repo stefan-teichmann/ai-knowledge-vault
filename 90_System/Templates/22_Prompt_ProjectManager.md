@@ -2,6 +2,7 @@
 typ: Prompt-Template
 rolle: IT-Projektleiter / Product Owner
 fokus: Planung & Kommunikation
+tags: [ai-prompt, ki-prompt, pm]
 ---
 # 📊 PM Prompt: {{title}}
 

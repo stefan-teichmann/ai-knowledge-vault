@@ -1,6 +1,7 @@
 ---
 typ: Review
 zeitraum: KW {{date:ww}}
+tags: [review]
 ---
 # 📅 Weekly Review: KW {{date:ww}}
 

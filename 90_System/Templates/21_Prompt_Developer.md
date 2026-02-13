@@ -2,6 +2,7 @@
 typ: Prompt-Template
 rolle: Senior Developer
 fokus: Code-Qualität / Architektur
+tags: [ai-prompt, ki-prompt, developer]
 ---
 # 💻 Developer Prompt: {{title}}
 

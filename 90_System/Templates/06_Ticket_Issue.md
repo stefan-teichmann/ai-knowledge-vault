@@ -2,6 +2,7 @@
 typ: Ticket
 priorität: [P0 / P1 / P2]
 status: [Offen / In Arbeit / Gelöst]
+tags: [issue, ticket]
 ---
 # Issue: {{title}}
 

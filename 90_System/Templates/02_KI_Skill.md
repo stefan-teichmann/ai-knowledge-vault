@@ -2,6 +2,7 @@
 typ: KI-Skill
 modell: [z.B. GPT-4o, Claude 3.5]
 schwierigkeit: [Anfänger/Fortgeschritten]
+tags: [ai, ki, ki-skill]
 ---
 # Skill: {{title}}
 

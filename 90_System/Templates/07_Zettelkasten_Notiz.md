@@ -1,6 +1,6 @@
 ---
 id: {{date}}{{time}}
-tags: #zettel
+tags: [zettel]
 links: 
 ---
 # {{title}}

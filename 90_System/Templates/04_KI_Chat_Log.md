@@ -1,7 +1,8 @@
 ---
 datum: {{date}}
 modell: 
-thema: 
+thema:
+tags: [ki, ai, chat, documentation]
 ---
 # Chat-Verlauf: {{title}}
 

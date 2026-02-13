@@ -2,6 +2,7 @@
 typ: Meeting
 datum: {{date}}
 teilnehmer: []
+tags: [meeting]
 ---
 # 🤝 Meeting: {{title}}
 

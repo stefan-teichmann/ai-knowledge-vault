@@ -2,6 +2,7 @@
 typ: Prompt-Template
 rolle: UX/UI Designer
 fokus: User-Centric Design / Kritik
+tags: [ai-prompt, ki-prompt, creator]
 ---
 # 🎨 UX Designer Prompt: {{title}}
 
