@@ -30,7 +30,7 @@ erstellt: 2026-02-13
 Einführung in den Kurs 02:52
 Slidedeck Grundlagen im Einsatz von GenAI
 
-[[01-01 - Grundlagen im Einsatz von GenAI - Einführung in den Kurs]]
+[[03-01 - Grundlagen im Einsatz von GenAI - Einführung in den Kurs]]
 
 ### 02 Die Transformation durch Generative AI
 
@@ -38,7 +38,7 @@ Die Auswirkungen der Transformation
 Die Veränderung unserer Rollen
 Die Transformation der Geschäftsmodelle
 
-[[01-02 - Grundlagen im Einsatz von GenAI - Die Transformation durch Generative AI]]
+[[03-02 - Grundlagen im Einsatz von GenAI - Die Transformation durch Generative AI]]
 
 ### 03 Praktische Übung
 
@@ -47,7 +47,7 @@ Praktische Übung
 - GenAI-Potenzial-Priorisierungsmatrix
  - Jetzt bist du dran 1 Fragen
  
-[[01-03 - Grundlagen im Einsatz von GenAI - Praktische Übung]]
+[[03-03 - Grundlagen im Einsatz von GenAI - Praktische Übung]]
 
 ### 04 Kursabschluss
 
