@@ -47,10 +47,11 @@ Du lernst:
 ---
 ## Diese Kurse findest du in diesem Lernpfad
 
-### Grundlagen im Einsatz von GenAI
 
-Ein Einführungskurs für Kreative, Strateg:innen und Zukunftsinteressierte, die verstehen wollen, was Generative AI ausmacht, wie sie funktioniert und wie sie kreative Arbeitsprozesse transformiert. Du lernst die technologischen Grundlagen kennen, entdeckst praxisnahe Use Cases in Design, Kunst, Musik und Medien – und reflektierst wirtschaftliche wie ethische Chancen und Risiken der Technologie.
+### Grundlagen in der Nutzung von KI-Assistenten (GPTs, Projects, Gems, Agents)
 
+Ein kompakter Grundlagenkurs für alle, die moderne KI-Assistenten in ihren Workflow integrieren möchten. Du lernst, wie du mit Tools wie ChatGPT GPTs, Claude Projects oder Langdock Agents spezialisierte Aufgaben automatisierst, Inhalte organisierst und große Informationsmengen strukturierst – mit Fokus auf Datenschutz, Konfiguration und produktiven Einsatz.
+[[01-00 - Grundlagen in der Nutzung von KI-Assistenten]]
 ### Prompting und Kontextmanagement
 
 Dieser Kurs richtet sich an alle, die regelmäßig mit KI-Sprachmodellen arbeiten – sei es für Text, Analyse oder Automatisierung. Du erfährst, warum klassische Prompting-Techniken heute oft überholt sind und wie du durch durchdachtes Context Management, Role Setting und strukturierte Beispiele maximale Wirkung erzielst. Mit praxisnahen Strategien und Übungen wirst du zum architektonischen Denker im Umgang mit GenAI.
@@ -60,16 +61,14 @@ Dieser Kurs richtet sich an alle, die regelmäßig mit KI-Sprachmodellen arbeite
 
 Ein kompakter Grundlagenkurs für alle, die den Einstieg in die Welt der KI-Chatbots suchen. Du lernst, wie du Tools wie ChatGPT, Claude, Perplexity, Gemini, Copilot oder Langdock effektiv für Textproduktion, Recherche oder Alltagsorganisation nutzt. Mit vielen Praxisbeispielen, einem Prompt-Starter-Kit und klaren Anwendungsfällen bist du nach dem Kurs bereit, KI-Chatbots sicher und selbstbewusst einzusetzen.
  
+### Grundlagen im Einsatz von GenAI
 
-### Grundlagen in der Nutzung von KI-Assistenten (GPTs, Projects, Gems, Agents)
-
-Ein kompakter Grundlagenkurs für alle, die moderne KI-Assistenten in ihren Workflow integrieren möchten. Du lernst, wie du mit Tools wie ChatGPT GPTs, Claude Projects oder Langdock Agents spezialisierte Aufgaben automatisierst, Inhalte organisierst und große Informationsmengen strukturierst – mit Fokus auf Datenschutz, Konfiguration und produktiven Einsatz.
-
+Ein Einführungskurs für Kreative, Strateg:innen und Zukunftsinteressierte, die verstehen wollen, was Generative AI ausmacht, wie sie funktioniert und wie sie kreative Arbeitsprozesse transformiert. Du lernst die technologischen Grundlagen kennen, entdeckst praxisnahe Use Cases in Design, Kunst, Musik und Medien – und reflektierst wirtschaftliche wie ethische Chancen und Risiken der Technologie.
   
 ### Einführung in die Bildgenerierung
 
 Ein praxisorientierter Einstiegskurs in die Welt der KI-Bildgenerierung: Du lernst, wie Diffusionsmodelle und multimodale Systeme funktionieren, welche Tools wie Midjourney, Stable Diffusion oder Replicate verfügbar sind – und wie du mit ihnen hochwertige Visuals erstellst, editierst und automatisierst. Mit praktischen Übungen, Prompts und Tool-Tipps ebnet dir der Kurs den Weg in die kreative Arbeit mit GenAI.
-
+[[03-00 - Grundlagen im Einsatz von GenAI - Kapitel in diesem Kurs]]
 
 ---
 *Zuletzt bearbeitet: 2026-02-13*
