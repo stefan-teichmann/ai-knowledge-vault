@@ -24,7 +24,8 @@ erstellt: 2026-02-13
   
 ## 01 Einführung in den Kurs
 
-[Einführung in den Kurs 02:52]([https://app.decaid.academy/path-player](https://app.decaid.academy/path-player?courseid=grundlagen-im-einsatz-von-generative-ai&unit=685556986ed41f43d9023613Unit))![[3-DE Slidedeck Grundlagen im Einsatz von GenAI.pptx]]
+[Einführung in den Kurs 02:52]([https://app.decaid.academy/path-player](https://app.decaid.academy/path-player?courseid=grundlagen-im-einsatz-von-generative-ai&unit=685556986ed41f43d9023613Unit))
+![[00-03-01_3-DE Slidedeck Grundlagen im Einsatz von GenAI.pptx]]
 
 ---- 
 

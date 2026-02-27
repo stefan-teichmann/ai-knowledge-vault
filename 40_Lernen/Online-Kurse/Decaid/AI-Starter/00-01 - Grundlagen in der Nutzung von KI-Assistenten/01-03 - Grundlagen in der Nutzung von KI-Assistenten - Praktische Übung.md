@@ -4,7 +4,7 @@ plattform:
   - Decaid
 instruktor:
 status:
-  - 🔴 Nicht gestartet / 🟡 In Arbeit / 🟢 Abgeschlossen
+  -  🟡 In Arbeit / 🟢 Abgeschlossen
 kurs_link: https://app.decaid.academy/course/grundlagen-in-der-nutzung-von-ki-assistenten
 tags:
   - lernen
