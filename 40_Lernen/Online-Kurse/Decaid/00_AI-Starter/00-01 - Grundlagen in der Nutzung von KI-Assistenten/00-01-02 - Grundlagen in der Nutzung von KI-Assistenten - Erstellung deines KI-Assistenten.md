@@ -11,9 +11,11 @@ tags:
   - weiterbildung
   - ai
   - "#ki"
+  - decaid
+  - grundlagen
 erstellt: 2026-02-13
 ---
-# 🎓 Kurs:  Grundlagen in der Nutzung von KI-Assistenten - Erstellung deines KI-Assistenten
+# 🎓 Kurs:  01-02 Grundlagen in der Nutzung von KI-Assistenten - Erstellung deines KI-Assistenten
 
 > [!abstract] 
 

@@ -11,9 +11,11 @@ tags:
   - weiterbildung
   - ai
   - "#ki"
+  - bildgenerierung
+  - decaid
 erstellt: 2026-02-13
 ---
-# 🎓 Kurs:  Einführung in die Bildgenerierung - Willkommen & Einführung in KI-gestützte Präsentationen
+# 🎓 Kurs:  05-01 Einführung in die Bildgenerierung - Willkommen & Einführung in KI-gestützte Präsentationen
 
 > [!abstract] 
 
@@ -22,19 +24,19 @@ erstellt: 2026-02-13
 # 📂 Kurs-Materialien
 
 ## Willkommen & Kursüberblick 03:08
-# Einführung in die Bildgenerierung
+## Einführung in die Bildgenerierung
 
 **Midjourney, Flux & Co.**
 
 ---
 
-# Intro zum Kurs
+## Intro zum Kurs
 
 **Warum Bildgenerierung mit KI?**
 
 ---
 
-# Was kann KI-Bildgenerierung?
+## Was kann KI-Bildgenerierung?
 
 - **Marketing & Social Media:** Posts, Ads, Thumbnails.
 - **Design & Kunst:** Konzepte, Moodboards, Inspiration.
@@ -45,7 +47,7 @@ erstellt: 2026-02-13
 
 ---
 
-# Agenda
+## Agenda
 
 - **Key Concepts:** Theorie & Grundlagen.
 - **Midjourney:** One tool to rule them all.
@@ -59,11 +61,11 @@ Hier ist der extrahierte Text aus den neu hochgeladenen Bildern, für Markdown f
 
 ---
 
-# Key Concepts: Theorie & Grundlagen
+### Key Concepts: Theorie & Grundlagen
 
 ---
 
-## Magie oder Technologie?
+### Magie oder Technologie?
 
 - **Input:** Dein Text
 - **Blackbox (Modell)**
@@ -72,7 +74,7 @@ Hier ist der extrahierte Text aus den neu hochgeladenen Bildern, für Markdown f
 
 ---
 
-## Arten der Bildgenerierung
+### Arten der Bildgenerierung
 
 - **Text-to-Image:** Deine Worte werden zu Bildern (z. B. "Ein Astronaut reitet ein Pferd auf dem Mond").
 - **Image-to-Image:** Verändere existierende Bilder mit Text (z. B. Mache aus einem Sommerfoto ein Winterbild).
@@ -81,7 +83,7 @@ Hier ist der extrahierte Text aus den neu hochgeladenen Bildern, für Markdown f
 
 ---
 
-## Diffusion Modelle Explained
+### Diffusion Modelle Explained
 
 - **Schritt 1: Verrauschen:** Ein Bild wird schrittweise mit "Noise" versehen, bis nur noch Zufall übrig ist.
 - **Schritt 2: Learning to Denoise:** Das KI-Modell lernt, diesen Prozess umzukehren, um aus Rauschen wieder ein Bild zu machen.
@@ -90,13 +92,13 @@ Hier ist der extrahierte Text aus den neu hochgeladenen Bildern, für Markdown f
 
 ---
 
-## Mehr als nur Bilder: Multimodale Modelle
+### Mehr als nur Bilder: Multimodale Modelle
 
-### Text-to-Image (autoregressive)
+#### Text-to-Image (autoregressive)
 
 - [Diagramm zeigt einen Transformer, der Text-Tokens wie "Labrador", "sitting", "near", "water" in Bild-Tokens umwandelt].
 
-### Text-to-Image (diffusion-based)
+#### Text-to-Image (diffusion-based)
 
 - **Beispiel:** "A person half Yoda half Gandalf".
 - [Diagramm zeigt den Prozess von Random Noise über mehrere Denoising-Schritte hin zum finalen Bild].

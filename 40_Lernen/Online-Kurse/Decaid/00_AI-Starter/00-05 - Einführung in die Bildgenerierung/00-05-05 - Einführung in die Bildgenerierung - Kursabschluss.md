@@ -11,9 +11,11 @@ tags:
   - weiterbildung
   - ai
   - "#ki"
+  - bildgenerierung
+  - decaid
 erstellt: 2026-02-13
 ---
-# 🎓 Kurs:  Einführung in die Bildgenerierung - Kursabschluss
+# 🎓 Kurs:  05-05 Einführung in die Bildgenerierung - Kursabschluss
 
 > [!abstract] 
 

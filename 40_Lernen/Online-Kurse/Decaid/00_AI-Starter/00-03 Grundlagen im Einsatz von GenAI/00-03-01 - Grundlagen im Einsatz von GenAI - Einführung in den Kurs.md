@@ -11,9 +11,10 @@ tags:
   - weiterbildung
   - ai
   - "#ki"
+  - grundlagen
 erstellt: 2026-02-13
 ---
-# 🎓 Kurs:  Grundlagen im Einsatz von GenAI - Einführung in den Kurs
+# 🎓 Kurs: 03-01 Grundlagen im Einsatz von GenAI - Einführung in den Kurs
 
 > [!abstract] Kurs-Beschreibung
 >

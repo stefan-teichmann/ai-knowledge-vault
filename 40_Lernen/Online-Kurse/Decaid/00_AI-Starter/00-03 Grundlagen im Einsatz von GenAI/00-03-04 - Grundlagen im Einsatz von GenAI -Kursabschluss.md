@@ -11,9 +11,10 @@ tags:
   - weiterbildung
   - ai
   - "#ki"
+  - grundlagen
 erstellt: 2026-02-13
 ---
-# 🎓 Kurs:  Grundlagen im Einsatz von GenAI -Kursabschluss
+# 🎓 Kurs:  03-04 Grundlagen im Einsatz von GenAI -Kursabschluss
 
 > [!abstract] Kurs-Beschreibung
 >  Ein Einführungskurs für alle, die verstehen wollen, was Generative AI ausmacht und kreative Arbeitsprozesse transformiert werden.

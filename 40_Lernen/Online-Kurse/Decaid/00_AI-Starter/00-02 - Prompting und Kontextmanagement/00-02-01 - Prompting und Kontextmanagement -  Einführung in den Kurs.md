@@ -11,9 +11,13 @@ tags:
   - weiterbildung
   - ai
   - "#ki"
+  - decaid
+  - grundlagen
+  - prompting
+  - kontextmanagement
 erstellt: 2026-02-17
 ---
-# 🎓 Kurs:  Prompting und Kontextmanagement
+# 🎓 Kurs: 02-01 Prompting und Kontextmanagement
 
 > [!abstract] **Kontextmanagement als neuer Standard in der KI-Interaktion**
 > Die vorliegenden Inhalte beschreiben einen Paradigmenwechsel in der Arbeit mit künstlicher Intelligenz (KI). Während die Ära des komplexen „Prompt Engineerings“ – also das Erstellen komplizierter Befehlsketten – als überholt gilt, rückt das strategische **Kontextmanagement** in das Zentrum einer effektiven Nutzung

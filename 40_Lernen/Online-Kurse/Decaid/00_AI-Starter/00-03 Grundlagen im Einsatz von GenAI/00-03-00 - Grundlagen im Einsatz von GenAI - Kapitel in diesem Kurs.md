@@ -11,9 +11,10 @@ tags:
   - weiterbildung
   - ai
   - "#ki"
+  - grundlagen
 erstellt: 2026-02-13
 ---
-# 🎓 Kurs:  Grundlagen im Einsatz von GenAI - Kapitel in diesem Kurs
+# 🎓 Kurs:  03-00 Grundlagen im Einsatz von GenAI - Kapitel in diesem Kurs
 
 > [!abstract] Kurs-Beschreibung
 >  Ein Einführungskurs für Kreative, Strateg:innen und Zukunftsinteressierte, die verstehen wollen, was Generative AI ausmacht, wie sie funktioniert und wie sie kreative Arbeitsprozesse transformiert. Du lernst die technologischen Grundlagen kennen, entdeckst praxisnahe Use Cases in Design, Kunst, Musik und Medien – und reflektierst wirtschaftliche wie ethische Chancen und Risiken der Technologie. Ideal für alle, die:
@@ -25,12 +26,12 @@ erstellt: 2026-02-13
 
 # Kapitel in diesem Kurs:  
 
-### 01 Einführung in den Kurs
+### 01 Einführung in den 
 
 - Einführung in den Kurs 02:52
 - Slidedeck Grundlagen im Einsatz von GenAI
 
-[[03-01 - Grundlagen im Einsatz von GenAI - Einführung in den Kurs]]
+[[00-03-01 - Grundlagen im Einsatz von GenAI - Einführung in den Kurs]]
 
 ### 02 Die Transformation durch Generative AI
 
@@ -38,7 +39,7 @@ erstellt: 2026-02-13
 - Die Veränderung unserer Rollen
 - Die Transformation der Geschäftsmodelle
 
-[[03-02 - Grundlagen im Einsatz von GenAI - Die Transformation durch Generative AI]]
+[[00-03-02 - Grundlagen im Einsatz von GenAI - Die Transformation durch Generative AI]]
 
 ### 03 Praktische Übung
 
@@ -47,7 +48,7 @@ erstellt: 2026-02-13
 - GenAI-Potenzial-Priorisierungsmatrix
  - Jetzt bist du dran 1 Fragen
  
-[[03-03 - Grundlagen im Einsatz von GenAI - Praktische Übung]]
+[[00-03-03 - Grundlagen im Einsatz von GenAI - Praktische Übung]]
 
 ### 04 Kursabschluss
 
@@ -56,6 +57,7 @@ erstellt: 2026-02-13
 - Abschlussquiz - 5 Fragen
 - Wie fandest du diesen Kurs?  - 6 Fragen
 
+[[00-03-04 - Grundlagen im Einsatz von GenAI -Kursabschluss]]
 
 ---
 *Zuletzt bearbeitet: 2026-02-17*

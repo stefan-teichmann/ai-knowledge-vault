@@ -11,9 +11,12 @@ tags:
   - weiterbildung
   - ai
   - "#ki"
+  - grundlagen
+  - ki-chatbots
+  - decaid
 erstellt: 2026-02-13
 ---
-# 🎓 Kurs:  Grundlagen in der Nutzung von KI-Chatbots
+# 🎓 Kurs:  04-00 Grundlagen in der Nutzung von KI-Chatbots
 
 > [!abstract] Dieser Kurs richtet sich an Einsteiger:innen, Wissensarbeiter:innen und Digital Professionals, die sich mit den Grundlagen und Unterschieden moderner KI-Chatbots vertraut machen möchten, um sie produktiv in ihrem Alltag oder Beruf einzusetzen. Ziel des Kurses ist es, dich in die Lage zu versetzen, Chatbots reflektiert, effizient und kreativ zu nutzen – egal ob für Content, Organisation oder Wissensarbeit. Ein perfekter Einstieg in die Welt der generativen AI. Ideal für alle, die:
 > - verstehen wollen, wie KI-Chatbots funktionieren und worin sie sich unterscheiden,
@@ -33,6 +36,8 @@ erstellt: 2026-02-13
 - Was sind KI-Chatbots & die Kunst des "Promptens"? 05:50
 - Slidedeck Grundlagen in der Nutzung von KI-Chatbots
 
+[[00-04-01 - Grundlagen in der Nutzung von KI-Chatbots - Willkommen & Warum KI-Chatbots Deinen Alltag verändern]]
+
 ### 02 Überblick über KI-Chatbots
 
 - Hier lernst du alles rund um die verschiedenen KI Chatbots.
@@ -49,11 +54,15 @@ erstellt: 2026-02-13
 - Kontextvorlage Langdock
 - Kontextvorlage Perplexity
 
+[[00-04-02 - Grundlagen in der Nutzung von KI-Chatbots - Überblick über KI-Chatbots]]
+
 ### 03 Praktische Übung
 
 - Deine ersten Schritte: Ausprobieren im Chatbot deiner Wahl 01:59
 - Jetzt bist du dran 1 Fragen
 - Dein Prompt Starter Kit
+
+[[00-04-03 - Grundlagen in der Nutzung von KI-Chatbots - Praktische Übung]]
 
 ### 04 Kursabschluss
 
@@ -62,6 +71,8 @@ erstellt: 2026-02-13
 - Kurszusammenfassung
 - Abschlussquiz - 5 Fragen
 - Wie fandest du diesen Kurs? - 6 Fragen
+
+[[00-04-04 - Grundlagen in der Nutzung von KI-Chatbots - Kursabschluss]]
 
 ---
 *Zuletzt bearbeitet: 2026-02-17*

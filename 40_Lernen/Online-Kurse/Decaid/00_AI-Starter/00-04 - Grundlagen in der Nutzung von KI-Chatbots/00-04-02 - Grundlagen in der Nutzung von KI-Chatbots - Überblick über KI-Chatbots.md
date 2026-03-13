@@ -11,9 +11,12 @@ tags:
   - weiterbildung
   - ai
   - "#ki"
+  - grundlagen
+  - ki-chatbots
+  - decaid
 erstellt: 2026-02-13
 ---
-# 🎓 Kurs:  Grundlagen in der Nutzung von KI-Chatbots - Überblick über KI-Chatbots
+# 🎓 Kurs:  04-02 Grundlagen in der Nutzung von KI-Chatbots - Überblick über KI-Chatbots
 
 > [!abstract] 
 

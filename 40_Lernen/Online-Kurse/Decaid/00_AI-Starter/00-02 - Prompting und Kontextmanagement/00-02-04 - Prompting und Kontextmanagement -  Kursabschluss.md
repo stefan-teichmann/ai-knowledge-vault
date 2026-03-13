@@ -11,9 +11,13 @@ tags:
   - weiterbildung
   - ai
   - "#ki"
+  - decaid
+  - grundlagen
+  - prompting
+  - kontextmanagement
 erstellt: 2026-02-17
 ---
-# 🎓 Kurs:  Prompting und Kontextmanagement
+# 🎓 Kurs: 02-04 Prompting und Kontextmanagement
 
 > [!abstract] 
 
@@ -21,7 +25,7 @@ erstellt: 2026-02-17
 
 # 📂 Kurs-Materialien
 
-Kurs-Materialien aus der Präsentation auf deutsch unter [[02-01 - Prompting und Kontextmanagement -  Einführung in den Kurs]]
+Kurs-Materialien aus der Präsentation auf deutsch unter [[00-02-01 - Prompting und Kontextmanagement -  Einführung in den Kurs]]
 
 ## Kursabschluss 02:22
 

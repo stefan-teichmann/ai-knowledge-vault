@@ -11,9 +11,13 @@ tags:
   - weiterbildung
   - ai
   - "#ki"
+  - decaid
+  - grundlagen
+  - prompting
+  - kontextmanagement
 erstellt: 2026-02-17
 ---
-# 🎓 Kurs:  Prompting und Kontextmanagement
+# 🎓 Kurs:  02-00 Prompting und Kontextmanagement
 
 > [!abstract] In diesem Kurs lernst du, wie sich das Feld des Prompt Engineerings weiterentwickelt hat und warum fortgeschrittene Techniken wie Chain-of-Thought nur noch selten notwendig sind. Stattdessen liegt der Fokus darauf, was du dem Modell an Informationen bereitstellst und wie du deinen Kontext optimal strukturierst. Moderne Sprachmodelle verstehen selbst unstrukturierte Anfragen bereits sehr gut, sodass sich der eigentliche Mehrwert nun in einem klaren Context Management zeigt. Du lernst: 
 > - Die „Prompt Engineering“-Revolution im Rückblick: Warum komplexe Prompt-Strukturen zunehmend an Bedeutung verlieren.
@@ -33,12 +37,16 @@ erstellt: 2026-02-17
 - Einführung in den Kurs 03:01
 - Slidedeck Prompting und Kontext
 
+[[00-02-01 - Prompting und Kontextmanagement -  Einführung in den Kurs]]
+
 ### 02 Die Kunst des Promptens und Kontext Engineering
 
 - Was bedeutet Prompt Engineering 04:30
 - Prompt Engineering verstehen 03:06
 - Dimensionen guten Promptens 03:30
 - Herausforderungen 03:28
+
+[[00-02-02 - Prompting und Kontextmanagement -  Die Kunst des Promptens und Kontext Engineering]]
 
 ### 03 Praktische Übung
 
@@ -47,6 +55,9 @@ erstellt: 2026-02-17
 - Instructions für Emailassistenten
 - Jetzt bist du dran 1 Fragen
 
+[[00-02-03 - Prompting und Kontextmanagement -  Praktische Übung]]
+
+
 ### 04 Kursabschluss
 
 - Kursabschluss 02:22
@@ -54,5 +65,8 @@ erstellt: 2026-02-17
 - Abschlussquiz - 5 Fragen
 - Wie fandest du diesen Kurs? - 6 Fragen
 
+[[00-02-04 - Prompting und Kontextmanagement -  Kursabschluss]]
+
+
 ---
-*Zuletzt bearbeitet: 2026-02-17*
+*Zuletzt bearbeitet: 2026-03-13*

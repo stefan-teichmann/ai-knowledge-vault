@@ -11,21 +11,21 @@ tags:
   - weiterbildung
   - ai
   - "#ki"
+  - bildgenerierung
+  - decaid
 erstellt: 2026-02-13
 ---
-# 🎓 Kurs:  Einführung in die Bildgenerierung - Einführung in weitere Modelle
+# 🎓 Kurs:  05-03 Einführung in die Bildgenerierung - Einführung in Open Source Modelle
 
 > [!abstract] 
 
 
 
 # 📂 Kurs-Materialien
-
-## Einführung in weitere Bildmodelle 15:31
-## Model Hopping - Praktische Übung 00:37
+## Einführung in die Bildgenerierung Open Source - 08:29
+## Einführung in die Bildgenerierung Comfy UI - 09:15
+## Einführung in die Bildgenerierung - Praktische Übung 00:37
 ## Jetzt bist du dran - 1 Fragen
-## Einführung in die Bildgenerierung Automatisierungen 01:43
-
 
 ---
 *Zuletzt bearbeitet: 2026-02-17*
